@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sucaizi.github.io/about/index.html</loc>
+    
+    <lastmod>2018-02-11T10:04:15.876Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sucaizi.github.io/tags/index.html</loc>
+    
+    <lastmod>2018-02-11T10:00:02.720Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sucaizi.github.io/categories/index.html</loc>
+    
+    <lastmod>2018-02-11T09:57:06.395Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sucaizi.github.io/repository/index.html</loc>
     
     <lastmod>2018-02-10T09:22:24.213Z</lastmod>
@@ -68,27 +89,6 @@
     <loc>https://sucaizi.github.io/links/index.html</loc>
     
     <lastmod>2018-02-04T14:54:31.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sucaizi.github.io/tags/index.html</loc>
-    
-    <lastmod>2018-01-28T14:34:50.649Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sucaizi.github.io/categories/index.html</loc>
-    
-    <lastmod>2018-01-07T14:08:48.481Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sucaizi.github.io/about/index.html</loc>
-    
-    <lastmod>2018-01-07T14:08:48.480Z</lastmod>
     
   </url>
   
